@@ -22,6 +22,7 @@ uma mente que se abre nao volta mais ao tamanho original 📚 👨‍🚀🌑
 <img height="50em" src="https://avatars.githubusercontent.com/u/4975968?s=280&amp;v=4" style="max-width: 100%;">
 <a href="https://inscricoes.unip.br/inscricao">
     <img height="30em" src="https://www.unip.br/assets/img/logo/logo-unip-2021.svg">
+    <img alt="CILNB - Sejam bem vindos!!!!" id="dimg_1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwnydaIAZ9eqgaah5onPQb32D9we8pAYYxQQx9_fcvA&amp;s" data-atf="1" data-frt="0" data-ilt="1691499075368">
 
 
 </div>
